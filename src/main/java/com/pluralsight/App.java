@@ -11,5 +11,6 @@ public class App
         System.out.println( "Bye World!" );
         System.out.println("Hi");
         System.out.println("Bye");
+        System.out.println("New2");
     }
 }
